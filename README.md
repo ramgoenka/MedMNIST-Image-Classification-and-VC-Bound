@@ -1,9 +1,6 @@
 # MedMNIST Image Classification & VC Bound Analysis
 
 **Benchmarking classical machine learning and deep learning for medical image classification, with an analysis of model generalization.**
-
-A final project for **ECE 2372: Pattern Recognition** at the University of Pittsburgh.
-
 ## Overview
 
 This project compares traditional machine-learning classifiers and deep-learning architectures on two datasets from [MedMNIST](https://medmnist.com/):
