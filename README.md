@@ -2,7 +2,7 @@
 
 **Benchmarking classical machine learning and deep learning for medical image classification, with an analysis of model generalization.**
 ## Overview
-
+ 
 This project compares traditional machine-learning classifiers and deep-learning architectures on two datasets from [MedMNIST](https://medmnist.com/):
 
 - **PneumoniaMNIST:** Binary classification of chest X-ray images (normal vs. pneumonia).
